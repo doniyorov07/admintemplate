@@ -14,6 +14,6 @@
     },
     "require": {
         "php": ">=8.0.0",
-        "doniyorovuz/admintemplate": "^2.0"
+        "doniyorovuz/admintemplate": "dev-master"
     }
 }

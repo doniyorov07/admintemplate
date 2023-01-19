@@ -1,0 +1,19 @@
+{
+    "name": "doniyorovuz/adminlte",
+    "description": "creativ admin template",
+    "authors": [
+        {
+            "name": "Doniyorov Ro'zimurod",
+            "email": "doniyorovrozimurod1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "doniyorovuz\\admintemplate\\": ""
+        }
+    },
+    "require": {
+        "php": ">=8.0.0",
+        "doniyorovuz/admintemplate": "^2.0"
+    }
+}
